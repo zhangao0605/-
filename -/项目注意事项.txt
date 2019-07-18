@@ -1,0 +1,9 @@
+GcsChat 			聊天系统
+simplescrm		河马云
+angularData		scrm系统
+static			蚁客宝系统
+new_Scrm			本地版老的河马云全面版
+--------------------------------------------------------
+1.河马云注意每次给贺杰的时候globals.ts文件路径还有navbar.component.ts注释记得
+2.ng build --prod
+	
